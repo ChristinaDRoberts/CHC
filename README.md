@@ -1,2 +1,1 @@
-# CHC
-you know 
+## Repo to practice basic concepts for new devs. 
